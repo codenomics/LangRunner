@@ -6,16 +6,14 @@
 
 ## Download
 
-**Latest version: v1.3** (Oct 3, 2026)
+**Latest version: v1.4** (Oct 3, 2026)
 
-- [LangRunner_v1.3_no-install.zip](https://github.com/codenomics/LangRunner/releases/download/v1.3/LangRunner_v1.3_no-install.zip) - 429 KB
-- [LangRunner_v1.3_Setup.exe](https://github.com/codenomics/LangRunner/releases/download/v1.3/LangRunner_v1.3_Setup.exe) - 507 KB
+- [LangRunner_v1.4_no-install.zip](https://github.com/codenomics/LangRunner/releases/download/v1.4/LangRunner_v1.4_no-install.zip) - 429 KB
+- [LangRunner_v1.4_Setup.exe](https://github.com/codenomics/LangRunner/releases/download/v1.4/LangRunner_v1.4_Setup.exe) - 507 KB
 
-What's new in v1.3:
+What's new in v1.4:
 
-- LangRunner now checks GitHub for a newer version when it starts and offers to update
-- Update now downloads and runs the new installer for you (installed copies)
-- Guide (F1) shows the version, has a Check now button, and a tick box to turn the startup check off
+- The Guide's closing button now says Close instead of Got it
 
 Older versions are on the [Releases page](https://github.com/codenomics/LangRunner/releases).
 
