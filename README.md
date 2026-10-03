@@ -6,14 +6,16 @@
 
 ## Download
 
-**Latest version: v1.2** (Oct 3, 2026)
+**Latest version: v1.3** (Oct 3, 2026)
 
-- [LangRunner_v1.2_no-install.zip](https://github.com/codenomics/LangRunner/releases/download/v1.2/LangRunner_v1.2_no-install.zip) - 426 KB
-- [LangRunner_v1.2_Setup.exe](https://github.com/codenomics/LangRunner/releases/download/v1.2/LangRunner_v1.2_Setup.exe) - 504 KB
+- [LangRunner_v1.3_no-install.zip](https://github.com/codenomics/LangRunner/releases/download/v1.3/LangRunner_v1.3_no-install.zip) - 429 KB
+- [LangRunner_v1.3_Setup.exe](https://github.com/codenomics/LangRunner/releases/download/v1.3/LangRunner_v1.3_Setup.exe) - 507 KB
 
-What's new in v1.2:
+What's new in v1.3:
 
-No notes for this version.
+- LangRunner now checks GitHub for a newer version when it starts and offers to update
+- Update now downloads and runs the new installer for you (installed copies)
+- Guide (F1) shows the version, has a Check now button, and a tick box to turn the startup check off
 
 Older versions are on the [Releases page](https://github.com/codenomics/LangRunner/releases).
 
@@ -96,7 +98,8 @@ Buttons at the top
                         (...\StarCitizen\LIVE\data\Localization\english) and
                         backs up the file that was there first.
 - Backups...          = the game-file backups: Restore or Purge them.
-- Guide (F1)          = help and keyboard shortcuts.
+- Guide (F1)          = help and keyboard shortcuts, the version number, and
+                        Check now to look for a newer LangRunner.
 
 When a new version of your pack comes out:
   Get newest  ->  Load my changes...  ->  Save to game
@@ -113,6 +116,11 @@ GOOD TO KNOW
   from before your first save).
 - Settings are kept in %APPDATA%\LangRunner\settings.txt.
   Downloaded packs go to Documents\LangRunner\Packs.
+- Updates: when LangRunner starts it checks GitHub for a newer version (it only
+  reads the public release page; nothing is sent). If you used the installer,
+  Update now downloads and runs the new installer for you. If you use the
+  no-install zip, it opens the download page instead. To turn the startup
+  check off, open the Guide (F1) and untick "Check for updates at startup".
 - If something goes wrong, LangRunner-log.txt next to LangRunner.exe says what.
 - To remove LangRunner: delete its folder, plus %APPDATA%\LangRunner and
   Documents\LangRunner if you don't want your settings and saved changes.
