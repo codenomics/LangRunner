@@ -4,7 +4,36 @@
 >
 > Use at your own risk. I offer no warranty or guarantees for this software.
 
+## Download
+
+**Latest version: v1.2** (Oct 3, 2026)
+
+- [LangRunner_v1.2_no-install.zip](https://github.com/codenomics/LangRunner/releases/download/v1.2/LangRunner_v1.2_no-install.zip) - 426 KB
+- [LangRunner_v1.2_Setup.exe](https://github.com/codenomics/LangRunner/releases/download/v1.2/LangRunner_v1.2_Setup.exe) - 504 KB
+
+What's new in v1.2:
+
+No notes for this version.
+
+Older versions are on the [Releases page](https://github.com/codenomics/LangRunner/releases).
+
 ## Getting started
+
+### Installer (recommended)
+
+1. Download the file ending in `_Setup.exe` above.
+2. Double-click it and click Install. It installs just for you - no admin password needed - and adds Start menu and Desktop shortcuts.
+3. To remove it later: Windows Settings > Apps, find LangRunner and click Uninstall.
+
+### No install (portable zip)
+
+1. Download the file ending in `_no-install.zip` above.
+2. Right-click it > Extract All, and pick a folder. Don't run it from inside the zip.
+3. Open the folder and double-click the app's .exe. Nothing is installed; delete the folder to remove it.
+
+Windows says "Windows protected your PC"? Click More info > Run anyway. It shows that for apps without a paid signing certificate.
+
+## More details
 
 ```
 LANGRUNNER
